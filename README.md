@@ -1,2 +1,4 @@
-# hej
-Övning inom Front end developer
+# Julianna Johansson
+Om mig
+Intressen
+Framtid
